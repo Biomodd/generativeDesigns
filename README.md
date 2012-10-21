@@ -24,4 +24,13 @@ TAIL example, abstracted from LOUISe (master project
  Example app doesn't have that much functionality:
  Move the mouse to "stretch" out the line...
 
+There are also two openGL shaders:
+* breathing
+=> simple "scaling" shader for breathing simulation purposes
+* noiseCol
+=> applies a noisy color shader on geometry
+
+![My image](https://dl.dropbox.com/u/7276586/bio4.png)
+![My image](https://dl.dropbox.com/u/7276586/bio3.png)
 ![My image](https://dl.dropbox.com/u/7276586/bio1.png)
+![My image](https://dl.dropbox.com/u/7276586/bio2.png)
