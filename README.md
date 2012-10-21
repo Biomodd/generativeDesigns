@@ -23,3 +23,5 @@ TAIL example, abstracted from LOUISe (master project
  recompiled and abstracted for biomodd [NYC4].
  Example app doesn't have that much functionality:
  Move the mouse to "stretch" out the line...
+
+![My image](https://dl.dropbox.com/u/7276586/bio1.png)
